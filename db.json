@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "id": 1, "name": "Song" },
+    { "id": 2, "name": "Kyle" },
+    { "id": 2, "name": "Anka" }
+  ],
+  "products": [
+    { "id": 101, "name": "Burger", "price": 12000 },
+    { "id": 102, "name": "Pizza", "price": 20000 },
+    { "id": 103, "name": "Pasta", "price": 11000 },
+    { "id": 104, "name": "Steak", "price": 45000 }
+  ]
+}
